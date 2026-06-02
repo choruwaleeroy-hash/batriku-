@@ -204,7 +204,7 @@ export const translations = {
   field_name:    { en: "Your Name *",                 sn: "Zita Rako *" },
   field_phone:   { en: "Phone (optional)",            sn: "Foni (kana uchida)" },
   field_msg:     { en: "What Do You Need? *",         sn: "Chii Chaunoda? *" },
-  ph_name:       { en: "e.g. Tendai Moyo",            sn: "semuenzaniso Tendai Moyo" },
+  ph_name:       { en: "e.g. Nokutenda Choruwa",            sn: "semuenzaniso Nokutenda Choruwa" },
   ph_phone:      { en: "+263 ...",                    sn: "+263 ..." },
   ph_msg: {
     en: "e.g. 120m of diamond mesh fencing in Borrowdale. Site visit needed.",
