@@ -1,0 +1,5 @@
+User-urgent: *
+Allow: /
+
+Sitemap:
+https://batriku.vercel.app/sitemap.xml
