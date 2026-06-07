@@ -25,8 +25,8 @@ export const translations = {
   header_free_quote: { en: "Free Quote",                      sn: "Yedza Mahara" },
 
   /* ─── Hero ───────────────────────────────────────── */
-  hero_title_1:  { en: "Fence",    sn: "Maguruva"  },
-  hero_title_2:  { en: "Experts",  sn: "Nyanzvi"   },
+  hero_title_1:  { en: "Fence",    sn: "Nyanzvi"  },
+  hero_title_2:  { en: "Experts",  sn: "Pakufenza"   },
   hero_sublabel: { en: "Commercial & Residential", sn: "Zvebhizimusi neDzimba" },
   hero_desc: {
     en: "Affordable steel and fencing solutions, manufactured and installed by qualified specialists serving every province in Zimbabwe.",
@@ -41,10 +41,10 @@ export const translations = {
   m_plain:       { en: "Plain Wire",         sn: "Waya Yakatwasuka" },
   m_game:        { en: "Game Wire",          sn: "Waya yeMhuka" },
   m_corner:      { en: "Corner Posts",       sn: "Mapango eMakona" },
-  m_bolts:       { en: "Bolts & Nuts",       sn: "Mabhauti neMatete" },
+  m_bolts:       { en: "Bolts & Nuts",       sn: "Bolts and Nuts" },
   m_steel:       { en: "Steel Products",     sn: "Zvigadzirwa zveSimbi" },
   m_washing:     { en: "Washing Lines",      sn: "Mitambo yeKuanika" },
-  m_install:     { en: "Fence Installation", sn: "Kuisa Maguruva" },
+  m_install:     { en: "Fence Installation", sn: "Kuisa fenzi" },
   m_selling:     { en: "Fence Selling",      sn: "Kutengesa Maguruva" },
   m_supply:      { en: "Steel Supply",       sn: "Kupa Simbi" },
   m_strong:      { en: "7+ Years Strong",    sn: "Makore 7+ Akasimba" },
@@ -94,7 +94,7 @@ export const translations = {
   prod_t_gates:    { en: "Gates",              sn: "Magedhi" },
   prod_t_corner:   { en: "Corner Posts",       sn: "Mapango eMakona" },
   prod_t_wooden:   { en: "Wooden Poles",       sn: "Mapango eHuni" },
-  prod_t_bolts:    { en: "Bolts & Nuts",       sn: "Mabhauti neMatete" },
+  prod_t_bolts:    { en: "Bolts & Nuts",       sn: "Bolts and nuts" },
   prod_t_washing:  { en: "Washing Lines",      sn: "Mitambo yeKuanika" },
   prod_t_install:  { en: "Fence Installation", sn: "Kuisa Maguruva" },
   prod_tag_1: { en: "01 / Fencing",        sn: "01 / Maguruva" },
@@ -126,7 +126,7 @@ export const translations = {
   serv_7: { en: "Poles & Corner Posts", sn: "Mapango eMakona" },
   serv_8: { en: "Wooden Poles",         sn: "Mapango eHuni" },
   serv_9: { en: "Plain Wire",           sn: "Waya Yakatwasuka" },
-  serv_10:{ en: "Bolts & Nuts",         sn: "Mabhauti neMatete" },
+  serv_10:{ en: "Bolts & Nuts",         sn: "Bolts and nuts" },
 
   serv_badge_1: { en: "Free Site Survey",  sn: "Ongororo yeNzvimbo Mahara" },
   serv_badge_2: { en: "Same-Week Install", sn: "Kuiswa Vhiki Imwe Chete" },
